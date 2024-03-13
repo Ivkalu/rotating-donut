@@ -1,17 +1,17 @@
-# rotating-donut
-Repo for rotating donut
+# Spinning Donut
+Repo for spinning donut
 
 ## Installation
 
 install numpy:
 
-```
+```bash
 pip install -r requirements.txt
 ```
 
 ## Usage
 
-```
+```bash
 [K1=<env>] [K2=<env>] [R1=<env>] [R2=<env>] python dougnut.py [-c]\'
 ```
 
